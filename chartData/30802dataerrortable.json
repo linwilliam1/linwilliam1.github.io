@@ -1,0 +1,42 @@
+[
+    {
+        "classroom": 30802,
+        "host": "PC01",
+        "count": 1
+    },
+    {
+        "classroom": 30802,
+        "host": "PC22",
+        "count": 1
+    },
+    {
+        "classroom": 30802,
+        "host": "PC25",
+        "count": 1
+    },
+    {
+        "classroom": 30802,
+        "host": "PC39",
+        "count": 2
+    },
+    {
+        "classroom": 30802,
+        "host": "PC40",
+        "count": 1
+    },
+    {
+        "classroom": 30802,
+        "host": "PC48",
+        "count": 2
+    },
+    {
+        "classroom": 30802,
+        "host": "PC53",
+        "count": 2
+    },
+    {
+        "classroom": 30802,
+        "host": "PC57",
+        "count": 2
+    }
+]
